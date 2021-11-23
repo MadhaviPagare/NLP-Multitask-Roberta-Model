@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Madhavi Pagare
 - 👀 I’m interested in learning Python for Machine Learning/Deep learning.
-- 🌱 I’m currently learning Regression and Classification
+- 🌱 
 - 💞️ 
 - �
 
